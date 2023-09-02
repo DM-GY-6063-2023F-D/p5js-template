@@ -20,12 +20,6 @@ Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://w
 
 ~~strikethrough~~
 
-==Highlight==
-
-Subscript: H~2~O
-
-Superscript: X^2^
-
 > blockquote 1 level
 >> blockquote 2 levels
 >>> blockquote 3 levels
