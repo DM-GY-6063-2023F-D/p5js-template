@@ -1,10 +1,5 @@
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
-}
-
 function setup() {
-  let mCanvas = createCanvas(windowWidth, windowHeight);
-  mCanvas.parent("main");
+  createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
