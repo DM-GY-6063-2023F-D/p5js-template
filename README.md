@@ -48,11 +48,11 @@ Link:
 
 
 Image with url:  
-![alt text](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
+![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
 
 
 Image on repo:  
-![alt text](./oiticica-metaesquema-00.jpg)
+![image description](./file-name.jpg)
 
 
 To start a new line, add two spaces at the end of a line, like this:  
