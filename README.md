@@ -20,10 +20,6 @@ Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://w
 
 ~~strikethrough text~~
 
-> blockquote 1 level
->> blockquote 2 levels
->>> blockquote 3 levels
-
 Ordered List:
 1. First item
 2. Second item
